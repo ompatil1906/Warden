@@ -39,7 +39,7 @@ It is explicitly built for the **Razorpay Buildathon Track 1: AI Growth & Agenti
 
 ## 🔁 The Closed Loop
 
-```mermaid
+```mermaid 
 graph TD
     V["Live Sales Velocity"] --> R["Revenue-at-Risk Machine"]
     R --> D["Economic Decision (BUY/WAIT/ESCALATE)"]
